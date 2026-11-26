@@ -27,3 +27,7 @@ sh scripts/inventory.sh
 ```
 
 It prints command names and availability. A missing command can be expected in a particular environment, such as Termux:X11 on WSL.
+
+## Archived configuration and backups
+
+The [workstation artifact index](docs/workstation-artifacts.md) connects the editor settings and Android backup material to the workflows above. It includes a two-pane Vim walkthrough.
